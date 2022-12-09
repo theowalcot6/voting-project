@@ -1,0 +1,15 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.1",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "dotenv": "^9.0.2",
+    "openzeppelin-solidity": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
